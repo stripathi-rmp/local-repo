@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 343F-B930
+
+ Directory of C:\Users\tripatsho\Desktop\MyProject
+
+11/02/2017  01:38 PM    <DIR>          .
+11/02/2017  01:38 PM    <DIR>          ..
+11/02/2017  01:38 PM                 0 demo.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  12,648,165,376 bytes free
